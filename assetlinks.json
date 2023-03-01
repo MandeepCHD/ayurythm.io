@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bytenome.vimeodemowithotpless",
+    "sha256_cert_fingerprints":
+    ["32:6F:78:5C:55:C6:CF:73:5A:51:A1:5D:29:42:A1:2C:5B:83:A0:0D:68:EF:9F:55:9A:46:23:2D:8A:AA:53:E5"]
+  }
+}]
